@@ -121,7 +121,6 @@ Results are reported as **Mean ± Std** over **10 runs** with random 80/20 node 
 
 ## System Requirements
 
-> ⚠️ Please fill in your actual system specs below.
 
 | Component | Specification |
 |-----------|--------------|
