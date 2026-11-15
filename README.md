@@ -44,7 +44,7 @@ All 9 datasets are loaded directly from [PyTorch Geometric (PyG)](https://pytorc
 ├── GTAGCNExp2.ipynb         # Main model v2 — run on Google Colab
 ├── GTAGCNExp3.ipynb         # Main model v3 — run on Google Colab
 │
-├── GTAGCN_ABlation             # Ablation study 1 — run on GPU
+├── GTAGCN_ABlation             # Ablation study 1 — run on Google Colab
 └── README.md
 ```
 
